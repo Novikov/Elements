@@ -25,8 +25,4 @@ class MainActivity : AppCompatActivity() {
         startActivity(intent)
     }
 
-    fun onClickDagger2(v: View){
-        val intent: Intent = Intent(this,Dagger2Activity::class.java)
-        startActivity(intent)
-    }
 }

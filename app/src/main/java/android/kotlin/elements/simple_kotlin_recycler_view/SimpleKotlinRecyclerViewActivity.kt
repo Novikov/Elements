@@ -19,7 +19,7 @@ class SimpleKotlinRecyclerViewActivity : AppCompatActivity() {
         val strings = ArrayList<String>()
 
         for(n in 1..100)
-            strings.add("String number - "+n)
+            strings.add("String number - $n")
 
         recyclerView.adapter = SimpleAdapter(strings,this)
 
