@@ -1,4 +1,4 @@
-package android.kotlin.elements.simple_java_recycler_view;
+package android.kotlin.elements._1_simple_java_recycler_view;
 
 import android.content.Context;
 import android.kotlin.elements.R;

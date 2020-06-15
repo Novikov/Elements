@@ -1,9 +1,8 @@
 package android.kotlin.elements
 
 import android.content.Intent
-import android.kotlin.elements.dagger_2.Dagger2Activity
-import android.kotlin.elements.simple_java_recycler_view.SimpleJavaRecyclerViewActivity
-import android.kotlin.elements.simple_kotlin_recycler_view.SimpleKotlinRecyclerViewActivity
+import android.kotlin.elements._1_simple_java_recycler_view.SimpleJavaRecyclerViewActivity
+import android.kotlin.elements._2_simple_kotlin_recycler_view.SimpleKotlinRecyclerViewActivity
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View

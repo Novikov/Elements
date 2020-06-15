@@ -9,9 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".dagger_2.Dagger2Activity"></activity>
-        <activity android:name=".simple_kotlin_recycler_view.SimpleKotlinRecyclerViewActivity" />
-        <activity android:name=".simple_java_recycler_view.SimpleJavaRecyclerViewActivity" />
+        <activity android:name="._4_mvvm_gac.MVVMGacActivity"></activity>
+        <activity android:name="._3_mvvm_data_binding.MVVMDataBindingActivity" />
+        <activity android:name=".dagger_2.Dagger2Activity" />
+        <activity android:name="._2_simple_kotlin_recycler_view.SimpleKotlinRecyclerViewActivity" />
+        <activity android:name="._1_simple_java_recycler_view.SimpleJavaRecyclerViewActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

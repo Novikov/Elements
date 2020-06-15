@@ -27,6 +27,24 @@
             android:layout_gravity="center"
             android:layout_marginTop="15dp"/>
 
+        <Button
+            android:id="@+id/mvvm_data_binding"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClickKotlinRecyclerView"
+            android:text="MVVM via data binding"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"/>
+
+        <Button
+            android:id="@+id/mvvm_gac"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClickKotlinRecyclerView"
+            android:text="MVVM via gac"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"/>
+
     </LinearLayout>
 
 </ScrollView>
